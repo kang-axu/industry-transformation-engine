@@ -4,6 +4,10 @@ This directory holds research that informs the ITE specification.
 
 Current research direction:
 
+## Baseline Research
+
+- [Electrification Forks — Stone & Webster / Fluor / Jacobs / Bechtel](ELECTRIFICATION-FORKS.md)
+
 ## General-Purpose Technology Transitions
 
 Primary historical analogy:
